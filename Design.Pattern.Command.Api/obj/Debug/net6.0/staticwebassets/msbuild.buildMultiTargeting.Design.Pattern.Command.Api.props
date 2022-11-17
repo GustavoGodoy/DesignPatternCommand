@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Design.Pattern.Command.Api.props" />
+</Project>

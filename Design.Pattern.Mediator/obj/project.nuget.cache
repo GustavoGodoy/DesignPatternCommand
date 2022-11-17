@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0a94MoQ3su8hDABk3NDOv/oma4MI4pORRJ39ommd+f3YE4K2BfeAl8/4Xneu1wZJ42H/xXF3ZqtVY5xX4Vd+tQ==",
+  "success": true,
+  "projectFilePath": "/Users/gustavogodoy/Documents/Projects/Dot Net/Jala-university-Aula18/Design.Pattern.Mediator/Design.Pattern.Mediator.csproj",
+  "expectedPackageFiles": [
+    "/Users/gustavogodoy/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
